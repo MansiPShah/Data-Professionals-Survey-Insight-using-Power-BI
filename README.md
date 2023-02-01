@@ -1,4 +1,4 @@
-# Insight from Data Professionals Survey Data using Power-BI
+# Data Professionals Survey Data Analysis using Power-BI
 
 ### Objective:
 The aim of this project is to analyse the survey data submitted by Data Professionals across different countries and to gain meaningful insights.

@@ -62,7 +62,7 @@ Below are the key insights from the report:
 4. Happiness with Work/Life balance was highest in United States followed by Canada and United Kingdom. Again India showed least happiness with work/life balance.
 5. Male vs Female salary was almost equal in all countries except India. Average Salary of Male professionals very significantly higher than female professionals in India.
 
-Country Specific Report:
+**Country Specific Report:**
 
 India:
 
